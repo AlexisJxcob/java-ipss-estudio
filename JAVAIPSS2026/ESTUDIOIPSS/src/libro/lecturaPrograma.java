@@ -17,5 +17,20 @@ public class lecturaPrograma {
         System.out.println(numero1 + " Es mayor a " + numero2 + ": " );
         System.out.println(numero1 > numero2);
 
-    }
-}
+        System.out.println(numero1 + " Es menor a " + numero2 + ": " );
+        System.out.println(numero1 < numero2);
+
+        System.out.println(numero1 + " Es mayor o igual a " + numero2 + ": " );
+        System.out.println(numero1 >= numero2);
+
+        System.out.println(numero1 + " Es menor o igual a " + numero2 + ": " );
+        System.out.println(numero1 <= numero2);
+
+        System.out.println(numero1 + " Es igual a " + numero2 + ": " );
+        System.out.println(numero1 == numero2);
+
+        System.out.println(numero1 + " No es igual a " + numero2 + ": " );
+        System.out.println(numero1 != numero2);
+
+    } // fin del metodo main
+} // fin de la clase
