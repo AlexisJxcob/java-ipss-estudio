@@ -1,3 +1,5 @@
+package clases;
+
 import java.util.Scanner; // Referencia al Scanner antes de ocuparlo
 
 /**

@@ -1,4 +1,4 @@
-package libro;
+package Libro;
 import java.util.Scanner;
 public class sentenciaIf {
     public static void main(String[] args) {

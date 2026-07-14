@@ -1,4 +1,4 @@
-package libro;
+package Libro;
 
 public class Variables {
 
