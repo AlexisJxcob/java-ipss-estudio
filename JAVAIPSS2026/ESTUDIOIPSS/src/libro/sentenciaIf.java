@@ -6,7 +6,7 @@ public class sentenciaIf {
 
         System.out.println("Ingresa tu edad");
         int edad = entrada.nextInt();
-
+        System.out.println("sentenciaIf.main");
         if (edad >= 18) {
             System.out.println("Eres mayor de edad, se ejecuta en true");
         } else{
