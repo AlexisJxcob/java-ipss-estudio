@@ -30,6 +30,7 @@ public class INCIO { // clase principal
 
         // Creamos el objeto Scanner
         Scanner leer = new Scanner(System.in);
+        calculando objeto = new calculando();
 
         System.out.println("Ingrese el primer numero:"); // Pedimos los datos
         int obj1 = leer.nextInt(); // Guardamos los datos en una variable
@@ -40,6 +41,8 @@ public class INCIO { // clase principal
         // Sumamos las variables respetando las minúsculas
         int sumaScanner = obj1 + obj2;
         System.out.println("la suma de tus 2 numeros es: " + sumaScanner);
+
+        objeto.
 
         leer.close(); // Cerramos el Scanner
     } // fin del main
